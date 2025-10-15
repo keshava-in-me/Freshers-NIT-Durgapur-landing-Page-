@@ -1,0 +1,18 @@
+.image-in-need{
+    background-image: url(images/background3.jpeg);
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll; 
+  border-radius: 100px;
+  
+}
+
+body{
+    background-color: rgb(184, 185, 183);
+    background-image: url(images/b3.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: 1550px;
+}
