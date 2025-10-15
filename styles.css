@@ -1,8 +1,7 @@
 .image-in-need{
-    background-image: url(images/background3.jpeg);
-    background-size: cover;
+    background-image: url(images/b14.jpeg);
+    background-size: cover ;
   background-repeat: no-repeat;
-  background-position: center center;
   background-attachment: scroll; 
   border-radius: 100px;
   
@@ -10,9 +9,15 @@
 
 body{
     background-color: rgb(184, 185, 183);
-    background-image: url(images/b3.png);
+    background-image: url(images/b17.jpeg);
     background-repeat: no-repeat;
     background-position: center center;
-    background-attachment: fixed;
-    background-size: 1550px;
+    background-attachment: scroll;
+    background-size: cover;
 }
+
+.glow-text {
+  color: #fff; /* Or your desired text color */
+  text-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 30px #00f; /* Blue glow example */
+}
+
